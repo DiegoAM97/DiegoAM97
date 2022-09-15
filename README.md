@@ -7,7 +7,7 @@ Hello! I'm Diego, a software engineer. I am passionate about technology and you 
 </h4>
 <br><br>
 
-- 🔭 I’m currently working on **Java (Spring Boot)**
+- 🔭 I’m currently working as a **Java Fullstack Developer (Spring Boot)**
 - 🌱 I’m looking forward to learning **data analysis and artificial intelligence**
 - 💬 Ask me about **Java, Python and C#**
 <!--
