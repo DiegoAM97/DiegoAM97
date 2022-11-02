@@ -21,8 +21,6 @@ Hello! I'm Diego, a software engineer. I am passionate about technology and you 
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original-wordmark.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_128x128.png" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
