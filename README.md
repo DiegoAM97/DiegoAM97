@@ -3,13 +3,14 @@ Hi there 👋
 </h1>
 
 <h4 align="center">
-Hello! I'm Diego, a software engineer. I am passionate about technology and you can check my personal projects here. I hope you like them 😄 
+Hello! I'm Diego, a software engineer. I am passionate about technology and you can check my personal projects here. I hope you like them. 😄 
 </h4>
 <br><br>
 
-- 🔭 I’m currently working as a **Java Fullstack Developer (Spring Boot)**
-- 🌱 I’m looking forward to learning **data analysis and artificial intelligence**
-- 💬 Ask me about **Java, Python and C#**
+- 🔭 I’m currently working as a **Java Fullstack Developer (Spring Boot)**.
+- ⚡ I'm currently learning **React**.
+- 🌱 I’m looking forward to mastering **data analysis, artificial intelligence and web development**.
+- 💬 Ask me about **Java, Python, JavaScript and C#**.
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
