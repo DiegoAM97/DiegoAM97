@@ -7,8 +7,8 @@ Hello! I'm Diego, a software engineer. I am passionate about technology and you 
 </h4>
 <br><br>
 
-- 🔭 I’m currently working as a **Java Fullstack Developer (Spring Boot)**.
-- ⚡ I'm currently learning **React modules (React-Query, Material UI, etc)**.
+- 🔭 I’m currently working as a **Java Fullstack Developer (Spring Boot & Backbone.js/React.js)**.
+- ⚡ I'm currently learning **React modules (React-Query, Material UI, etc)** & **Next.Js**.
 - 🌱 I’m looking forward to mastering **data analysis, artificial intelligence and web development**.
 - 💬 Ask me about **Java, Python, JavaScript and C#**.
 <!--
